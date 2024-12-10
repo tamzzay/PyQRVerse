@@ -2,13 +2,18 @@
 
 ## PyQRVerse
 🚀 PyQRVerse is a powerful and user-friendly QR Code generator built using Python with an intuitive GUI interface. 
+
 Designed and developed by Tamanna Shenoy, this project aims to simplify QR code creation for personal, business, and development needs.
 
 ## Key Features:
 🔥 Custom QR Code Generation: Create QR codes for text, URLs, Wi-Fi credentials, and more.
+
 🎨 Dynamic Styling: Customize colors, sizes, and formats for a personalized look.
+
 🖥️ Simple GUI Interface: User-friendly design for effortless QR code creation.
+
 💾 Save & Export: Save generated QR codes in multiple file formats like PNG, JPG, and PDF.
+
 🔒 Secure & Offline: Fully offline operation ensures data privacy and security. 
 
 ---
